@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('//fonts.googleapis.com/css?family=Work+Sans:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*,::before,::after {
+  box-sizing: border-box;
+}
+
+.task-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.step-box {
+  margin: auto;
+  width: 600px; 
+}
+
+.step-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.step-section {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  align-self: flex-end;
+  width: 70px;
+  height: 35px;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+label {
+  margin-bottom: 10px;
+  font-style: san-serif;
+}
+
+.step-input {
+  height: 35px;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  outline: none;
+}
+
+.step-list {
+  width: 100%;
+  padding: 5px 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.step-list_titles {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.step-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.step-item_actions {
+  display: flex;
+  width: 65px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  cursor: pointer;
+}
+
