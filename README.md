@@ -1,3 +1,9 @@
+# dz-steps
+
+[![Build status](https://ci.appveyor.com/api/projects/status/05xla6dfnowkfdox?svg=true)](https://ci.appveyor.com/project/pvova21/dz-steps)
+
+## ## [GitHub Pages](https://pvova21.github.io/dz-steps/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
