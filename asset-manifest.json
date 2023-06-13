@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-steps/static/css/main.f9253482.css",
+    "main.js": "/dz-steps/static/js/main.1c095425.js",
+    "static/js/787.48b3ed18.chunk.js": "/dz-steps/static/js/787.48b3ed18.chunk.js",
+    "index.html": "/dz-steps/index.html",
+    "main.f9253482.css.map": "/dz-steps/static/css/main.f9253482.css.map",
+    "main.1c095425.js.map": "/dz-steps/static/js/main.1c095425.js.map",
+    "787.48b3ed18.chunk.js.map": "/dz-steps/static/js/787.48b3ed18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9253482.css",
+    "static/js/main.1c095425.js"
+  ]
+}
